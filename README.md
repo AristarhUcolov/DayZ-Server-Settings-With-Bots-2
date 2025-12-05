@@ -62,7 +62,7 @@
 
 ### Server Settings (serverDZ.cfg)
 
-```
+```ini
 hostname = "DayZ Local Server"    // Server name
 maxPlayers = 1                    // Maximum players
 serverTimeAcceleration = 12       // Time speed multiplier
