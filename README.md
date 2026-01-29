@@ -43,10 +43,7 @@ Pre-configured DayZ server settings with AI bots, optimized for the [Steam Works
 | `КонфигураторEconomy/` | Economy configurator with cfgeconomycore.txt |
 | `МодыПоОтдельности/` | Individual mods list with Steam Workshop links |
 
-### 📄 Additional Resources
-| File/Folder | Description |
-|-------------|-------------|
-| Check inside the packages above | Contains: serverDZ.cfg, start.bat, mpmissions/, profiles.zip, keys.zip and more |
+> **Note:** The ready-to-use packages above contain all necessary configuration files including: serverDZ.cfg, start.bat, mpmissions/, profiles.zip, keys.zip and more.
 
 ---
 
@@ -172,10 +169,7 @@ If you have questions or issues, please open an issue in this repository.
 | `КонфигураторEconomy/` | Конфигуратор экономики с файлом cfgeconomycore.txt |
 | `МодыПоОтдельности/` | Список модов по отдельности со ссылками на Steam Workshop |
 
-### 📄 Дополнительные ресурсы
-| Файл/Папка | Описание |
-|------------|----------|
-| Смотрите внутри пакетов выше | Содержит: serverDZ.cfg, start.bat, mpmissions/, profiles.zip, keys.zip и другое |
+> **Примечание:** Готовые пакеты выше содержат все необходимые файлы конфигурации, включая: serverDZ.cfg, start.bat, mpmissions/, profiles.zip, keys.zip и другие.
 
 ---
 
