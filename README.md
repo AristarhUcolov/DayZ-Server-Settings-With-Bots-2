@@ -1,7 +1,7 @@
 [![DayZ](https://img.shields.io/badge/DayZ-Server%20Config-blue.svg)](https://github.com/AristarhUcolov/DayZ-Server-Settings-With-Bots)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-🇬🇧 **English** | [🇷🇺 Русский](#русская-версия)
+🇬🇧 **English** | [🇷🇺 Русский](#русская-версия--настройки-dayz-сервера-с-ботами---часть-2)
 
 ---
 
@@ -31,16 +31,19 @@ Pre-configured DayZ server settings with AI bots, optimized for the [Steam Works
 
 ## 📁 Repository Contents
 
-| File/Folder | Description |
-|-------------|-------------|
-| `serverDZ.cfg` | Main server configuration |
-| `start.bat` | Server startup batch file |
-| `mods.txt` | Complete mod list with Steam links |
-| `mpmissions/` | Mission files |
-| `profiles.zip` | Server profiles |
-| `keys.zip` | Mod keys |
-| `cfgeconomycode.txt` | Economy configuration |
-| `ВесьПакДляСтарта.zip` | Complete starter pack |
+### 📦 Ready-to-Use Packages
+| File | Description |
+|------|-------------|
+| `ВесьПакДляСтартаНаКартеBitterroot.zip` | Complete pack for starting on Bitterroot map |
+| `ПакДляСтартаПодЛюбойСервер.zip` | Starter pack for any server |
+
+### 📂 Configuration Folders
+| Folder | Description |
+|--------|-------------|
+| `КонфигураторEconomy/` | Economy configurator with cfgeconomycore.txt |
+| `МодыПоОтдельности/` | Individual mods list with Steam Workshop links |
+
+> **Note:** The ready-to-use packages above contain all necessary configuration files including: serverDZ.cfg, start.bat, mpmissions/, profiles.zip, keys.zip and more.
 
 ---
 
@@ -88,7 +91,7 @@ template = "empty.Bitterroot"     // Map template
 | BaseBuildingPlus | Enhanced building |
 | sGunplay | Improved gunplay |
 
-> See `mods.txt` for the complete list
+> See `МодыПоОтдельности/mods.txt` for the complete list
 
 ---
 
@@ -154,16 +157,19 @@ If you have questions or issues, please open an issue in this repository.
 
 ## 📁 Содержимое репозитория
 
-| Файл/Папка | Описание |
-|------------|----------|
-| `serverDZ.cfg` | Основная конфигурация сервера |
-| `start.bat` | BAT файл для запуска сервера |
-| `mods.txt` | Полный список модов со ссылками |
-| `mpmissions/` | Файлы миссий |
-| `profiles.zip` | Профили сервера |
-| `keys.zip` | Ключи модов |
-| `cfgeconomycode.txt` | Конфигурация экономики |
-| `ВесьПакДляСтарта.zip` | Полный пакет для старта |
+### 📦 Готовые пакеты
+| Файл | Описание |
+|------|----------|
+| `ВесьПакДляСтартаНаКартеBitterroot.zip` | Полный пакет для старта на карте Bitterroot |
+| `ПакДляСтартаПодЛюбойСервер.zip` | Пакет для старта под любой сервер |
+
+### 📂 Папки с конфигурацией
+| Папка | Описание |
+|-------|----------|
+| `КонфигураторEconomy/` | Конфигуратор экономики с файлом cfgeconomycore.txt |
+| `МодыПоОтдельности/` | Список модов по отдельности со ссылками на Steam Workshop |
+
+> **Примечание:** Готовые пакеты выше содержат все необходимые файлы конфигурации, включая: serverDZ.cfg, start.bat, mpmissions/, profiles.zip, keys.zip и другие.
 
 ---
 
@@ -211,7 +217,7 @@ template = "empty.Bitterroot"     // Шаблон карты
 | BaseBuildingPlus | Улучшенное строительство |
 | sGunplay | Улучшенная стрельба |
 
-> Полный список см. в `mods.txt`
+> Полный список см. в `МодыПоОтдельности/mods.txt`
 
 ---
 
@@ -244,3 +250,7 @@ template = "empty.Bitterroot"     // Шаблон карты
 ## 🤝 Поддержка
 
 Если у вас есть вопросы или проблемы, откройте issue в этом репозитории.
+
+---
+
+[🇬🇧 English](#dayz-server-settings-with-bots---part-2) | 🇷🇺 **Русский**
