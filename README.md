@@ -1,5 +1,12 @@
 # DayZ Server Settings With Bots - Part 2
 
+[![DayZ](https://img.shields.io/badge/DayZ-Server%20Config-blue.svg)](https://github.com/AristarhUcolov/DayZ-Server-Settings-With-Bots)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+🇬🇧 **English** | [🇷🇺 Русский](#русская-версия)
+
+---
+
 ![Монтажная область 1](https://github.com/user-attachments/assets/8c79de2d-80b4-404c-a0dc-3dde1f3a86a7)
 
 > **Video Tutorial Part 2** | **2-я Часть Видео по настройке DayZ Сервера**
@@ -120,3 +127,13 @@ This project is provided as-is for educational purposes. | Проект пред
 If you have questions or issues, please open an issue in this repository.
 
 Если у вас есть вопросы или проблемы, откройте issue в этом репозитории.
+
+---
+
+## 🇷🇺 Русская Версия
+
+> **Примечание:** Данный документ полностью двуязычный. Все разделы содержат информацию как на английском, так и на русском языках.
+>
+> **Note:** This document is fully bilingual. All sections contain information in both English and Russian.
+
+Для русскоязычной версии смотрите описания разделов выше. Каждый раздел содержит информацию на обоих языках.
