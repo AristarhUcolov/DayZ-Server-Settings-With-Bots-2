@@ -123,15 +123,12 @@ This project is provided as-is for educational purposes.
 If you have questions or issues, please open an issue in this repository.
 
 ---
----
 
 [🇬🇧 English](#dayz-server-settings-with-bots---part-2) | 🇷🇺 **Русский**
 
 ---
 
-# Русская версия
-
-# Настройки DayZ Сервера с Ботами - Часть 2
+# Русская версия — Настройки DayZ Сервера с Ботами - Часть 2
 
 ![Монтажная область 1](https://github.com/user-attachments/assets/8c79de2d-80b4-404c-a0dc-3dde1f3a86a7)
 
